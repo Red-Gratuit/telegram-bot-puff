@@ -17,7 +17,23 @@ def ping():
 @app.get("/api/products")
 def products():
     return [
-        {"id": 1, "name": "Burger", "price": 7.5},
-        {"id": 2, "name": "Tacos", "price": 6.0},
-        {"id": 3, "name": "Kebab", "price": 6.5},
+        {
+            "id": 16,
+            "name": "16K JNR",
+            "price": 25,
+            "puffs": "16000 bouffées",
+            "nicotine": "2%",
+            "battery": "Rechargeable USB-C",
+            "image": "https://via.placeholder.com/400x300?text=16K+JNR"
+        },
+        {
+            "id": 18,
+            "name": "18K JNR",
+            "price": 30,
+            "puffs": "18000 bouffées",
+            "nicotine": "2%",
+            "battery": "Rechargeable USB-C",
+            "image": "https://via.placeholder.com/400x300?text=18K+JNR"
+        }
     ]
+
