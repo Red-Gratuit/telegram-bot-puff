@@ -24,7 +24,7 @@ def products():
             "puffs": "16000 bouffées",
             "nicotine": "2%",
             "battery": "Rechargeable USB-C",
-            "image": "https://via.placeholder.com/400x300?text=16K+JNR",
+            "image": "/images/16k.jpg"
             "flavors": [
                 "Fraise",
                 "Mangue",
@@ -40,7 +40,7 @@ def products():
             "puffs": "18000 bouffées",
             "nicotine": "2%",
             "battery": "Rechargeable USB-C",
-            "image": "https://via.placeholder.com/400x300?text=18K+JNR",
+            "image": "/images/18k.jpg",
             "flavors": [
                 "Fraise Ice",
                 "Blueberry",
