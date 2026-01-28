@@ -24,7 +24,14 @@ def products():
             "puffs": "16000 bouffées",
             "nicotine": "2%",
             "battery": "Rechargeable USB-C",
-            "image": "https://via.placeholder.com/400x300?text=16K+JNR"
+            "image": "https://via.placeholder.com/400x300?text=16K+JNR",
+            "flavors": [
+                "Fraise",
+                "Mangue",
+                "Cola",
+                "Ice",
+                "Pastèque"
+            ]
         },
         {
             "id": 18,
@@ -33,7 +40,15 @@ def products():
             "puffs": "18000 bouffées",
             "nicotine": "2%",
             "battery": "Rechargeable USB-C",
-            "image": "https://via.placeholder.com/400x300?text=18K+JNR"
+            "image": "https://via.placeholder.com/400x300?text=18K+JNR",
+            "flavors": [
+                "Fraise Ice",
+                "Blueberry",
+                "Energy Drink",
+                "Menthe",
+                "Cherry"
+            ]
         }
     ]
+
 
